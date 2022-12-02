@@ -2,7 +2,7 @@
 ##### How to run App and send mail
 Step -1 : First you need to open project directory
 ```shell
-cd question_1
+cd Question-1
 ```
 Step -2 : Activates the virutal environment required for the project dependency isolation.
 ```shell 
